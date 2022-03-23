@@ -46,5 +46,9 @@ public class EmployeePayrollService
 		employeePayrollService.readEmployeePayrollData(ConsoleInputReader);
 		employeePayrollService.writeEmployeePayrollData();
 	}
+	public void writeEmployeePayrollData(IOService fileIo) {
+		// TODO Auto-generated method stub
+		
+	}
 	
 }
